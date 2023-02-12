@@ -1,11 +1,17 @@
+import { Stack } from '@mui/system';
 import React from 'react';
 import {Link} from 'react-router-dom';
+import Nationals from '../assets/images/Nationals.jpeg';
 
 
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+   <Stack>
+    <Link to="/">
+        <img src={Nationals} />
+    </Link>
+   </Stack>
   )
 }
 
