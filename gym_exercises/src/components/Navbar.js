@@ -13,7 +13,7 @@ const Navbar = () => {
             sm: '122px', xs: '40px'}, mt: { sm: '32px', xs: '20px'}, justifyContent: 'none'}} px="20px">
     <Link to="/">
         <img src={Nationals} alt="Nationals" style={{
-        width: '32px', height: '50px',
+        width: '40px', height: '60px',
         margin: '0 10px'
         }} />
     </Link>
