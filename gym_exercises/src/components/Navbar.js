@@ -7,7 +7,10 @@ import Nationals from '../assets/images/Nationals.jpeg';
 
 const Navbar = () => {
   return (
-   <Stack>
+   <Stack 
+   direction="row"
+        justifyContent="space-around" sx={{gap:{
+            sm: '122px', xs: '40px'}, mt: { sm: '32px', xs: '20px'}, justifyContent: 'none'}}>
     <Link to="/">
         <img src={Nationals} alt="Nationals" style={{
         width: '28px', height: '50px',
