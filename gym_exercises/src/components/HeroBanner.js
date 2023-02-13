@@ -12,7 +12,7 @@ const HeroBanner = () => {
         fontWeight="600" fontSize="26px">
             Fitness Club
         </Typography>
-        <Typography fontWeight={800}
+        <Typography fontWeight={600}
         sx={{ fontSize: { lg: '44px' , xs: '40px'}
         }} mb="23px" mt="30px">
             Do The Hard Stuff

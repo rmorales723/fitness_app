@@ -2,9 +2,41 @@
 import React, { useEffect, useState } from 'react'
 import { Box, Button, Stack, Textfield, Typography } from '@mui/material'
 import { TextField } from '@material-ui/core';
+import { exerciseOptions, fetchData } from '../utils/fetchData';
 
-const SearchExercises = () => {
-    const [search, setSearch] = useState('')
+const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
+    const [search, setSearch] = useState('');
+    const [bodyParts, setBodyParts] = useState([]);
+  
+    useEffect(() => {
+      const fetchExercisesData = async () => {
+        const bodyPartsData = await fetchData('https://exercisedb.p.rapidapi.com/exercises/bodyPartList', exerciseOptions);
+  
+        setBodyParts(['all', ...bodyPartsData]);
+      };
+  
+      fetchExercisesData();
+    }, []);
+  
+    
+    
+    const handleSearch = async () => {
+        if(search) {
+            const exerciseData = await fetchData
+            ('https://exercisedb.p.rapidapi.com/exercises', exerciseOptions);
+        
+            const searchedExercises = exerciseData.filter(
+                (exercise) => exercise.name.toLowerCase().includes(search)
+            || exercise.target.toLowerCase().includes(search)
+            || exercise.equipment.toLowerCase().includes(search)
+            || exercise.bodyPart.toLowerCase().includes(search)
+            );
+
+            setSearch('');
+            setExercises(searchedExercises);
+        }
+    }
+
 
   return (
     <Stack alignItems="center" mt="37px"
@@ -32,6 +64,22 @@ const SearchExercises = () => {
                 placeholder="Search Exercises"
                 type="text"
             />
+            <Button className='search-btn'
+            sx={{
+                bgColor: '#FF2625',
+                color: '#fff',
+                textTransform: 'none',
+                width: { lg: '175px', xs: '80px'},
+                fontSize: { lg: '20px', xs: '14px'}
+                ,
+                height: '56px',
+                position: "absolute",
+                right: '0'
+            }}
+            onClick={handleSearch}
+            >
+
+            </Button>
         </Box>
     </Stack>
   )
