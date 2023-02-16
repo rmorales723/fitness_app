@@ -3,3 +3,6 @@
 ![Screen Shot 2023-02-15 at 5 19 45 PM](https://user-images.githubusercontent.com/72527380/219196191-37a00a53-c588-4de8-8d26-10902a940922.png)
 ![Screen Shot 2023-02-15 at 5 21 30 PM](https://user-images.githubusercontent.com/72527380/219196386-4e80a9b3-53fa-43f4-88b9-a41afab41ab5.png)
 ![Screen Shot 2023-02-16 at 9 29 06 AM](https://user-images.githubusercontent.com/72527380/219392660-4730415c-978e-4911-a8ed-309f54e2f719.png)
+#
+{exercise.target} {exercise.name}
+![Screen Shot 2023-02-16 at 9 32 44 AM](https://user-images.githubusercontent.com/72527380/219393466-a1323968-bd6e-4ce1-9bfa-390433a25cb9.png)
