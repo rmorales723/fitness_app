@@ -6,11 +6,9 @@ import TargetImage from '../assets/icons/target.png';
 import EquipmentImage from '../assets/icons/equipment.png';
 
 const Detail = ({ exerciseDetail }) => {
-    const { bodyPart, gifUrl, name, target, equipment } = exerciseDetail;
-    
-    console.log(gifUrl);
+  const { bodyPart, gifUrl, name, target, equipment } = exerciseDetail;
 
-    const extraDetail = [
+  const extraDetail = [
     {
       icon: BodyPartImage,
       name: bodyPart,
@@ -51,6 +49,6 @@ const Detail = ({ exerciseDetail }) => {
       </Stack>
     </Stack>
   );
-};  
+};
 
-export default Detail
+export default Detail;

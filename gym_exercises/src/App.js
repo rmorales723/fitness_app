@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
 import { Box } from '@mui/material';
 import ExerciseDetail from './pages/ExerciseDetail';
@@ -13,12 +13,12 @@ const App = () => {
     
     <Box width="400px" sx={{width: { xl: '1488px' }}} m="auto">
       <Navbar />
-      <Router>
-        <Switch>
-          <Route path="/" component={Home} />
-          <Route path="/exercise/:id" component={ExerciseDetail} />
-        </Switch>
-      </Router> 
+      
+        <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/exercise/:id" element={<ExerciseDetail />} />
+        </Routes>
+     
       <Footer />
     </Box>
    

@@ -30,7 +30,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
     const fetchExercisesData = async () => {
       let exercisesData = [];
 
-      if(bodyPart === 'all') {
+      if (bodyPart === 'all') {
         exercisesData = await fetchData
         ('https://exercisedb.p.rapidapi.com/exercises', exerciseOptions);
       } else {
@@ -70,4 +70,4 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
   )
 }
 
-export default Exercises
+export default Exercises;
