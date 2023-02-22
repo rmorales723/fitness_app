@@ -5,7 +5,7 @@
 ![Screen Shot 2023-02-22 at 10 16 43 AM](https://user-images.githubusercontent.com/72527380/220666276-7c0e00a7-a713-4518-a19a-b447484b4f52.png)
 ![Screen Shot 2023-02-22 at 10 17 21 AM](https://user-images.githubusercontent.com/72527380/220666523-6ac00247-91e7-4be9-a7e0-17bada56df93.png)
 #
-#DetailCard Youtube Gif Links
+#DetailCard 
 ![Screen Shot 2023-02-22 at 10 19 14 AM](https://user-images.githubusercontent.com/72527380/220667067-a4cd50b2-73b7-40ad-aee8-d1bf170f3559.png)
 ![Screen Shot 2023-02-22 at 10 21 23 AM](https://user-images.githubusercontent.com/72527380/220667698-f5864499-b815-4d48-bc43-22944d01f335.png)
 ![Screen Shot 2023-02-22 at 10 22 49 AM](https://user-images.githubusercontent.com/72527380/220668142-bd7bb0a8-a65e-40bc-afac-bcd1e7a6eb3e.png)
