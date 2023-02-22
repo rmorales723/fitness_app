@@ -1,12 +1,6 @@
-# fitness_app (work in progress!!)
-![Screen Shot 2023-02-15 at 5 20 25 PM](https://user-images.githubusercontent.com/72527380/219195837-53de87c4-5672-44e8-8829-33ce53ca1aae.png)
-![Screen Shot 2023-02-15 at 5 19 45 PM](https://user-images.githubusercontent.com/72527380/219196191-37a00a53-c588-4de8-8d26-10902a940922.png)
-![Screen Shot 2023-02-15 at 5 21 30 PM](https://user-images.githubusercontent.com/72527380/219196386-4e80a9b3-53fa-43f4-88b9-a41afab41ab5.png)
-![Screen Shot 2023-02-16 at 9 29 06 AM](https://user-images.githubusercontent.com/72527380/219392660-4730415c-978e-4911-a8ed-309f54e2f719.png)
-#
-{exercise.target} {exercise.name}
-![Screen Shot 2023-02-16 at 9 32 44 AM](https://user-images.githubusercontent.com/72527380/219393466-a1323968-bd6e-4ce1-9bfa-390433a25cb9.png)
-![Screen Shot 2023-02-16 at 4 27 32 PM](https://user-images.githubusercontent.com/72527380/219490702-eda43001-e2cb-4521-9043-e3c0598de4e2.png)
-#
-![Screen Shot 2023-02-21 at 4 01 29 PM](https://user-images.githubusercontent.com/72527380/220457580-d97c59e3-3623-4cc7-b13b-050f5f63e9ff.png)
-![Screen Shot 2023-02-21 at 6 04 06 PM](https://user-images.githubusercontent.com/72527380/220478669-16e4546f-d63e-4e8f-aa57-308e0f4c38d4.png)
+![Screen Shot 2023-02-22 at 10 12 49 AM](https://user-images.githubusercontent.com/72527380/220665029-6675a9eb-a7ff-4a9d-ab0a-0fffacaa723a.png)
+![Screen Shot 2023-02-22 at 10 13 47 AM](https://user-images.githubusercontent.com/72527380/220665378-dae8c188-f33e-406a-ac56-e89979fcf886.png)
+![Screen Shot 2023-02-22 at 10 14 55 AM](https://user-images.githubusercontent.com/72527380/220665738-e1840f6a-31c6-4191-947a-4e5f4bba2a9b.png)
+![Screen Shot 2023-02-22 at 10 15 52 AM](https://user-images.githubusercontent.com/72527380/220666018-7090c28f-5ade-4486-b91d-a3c0174923f5.png)
+![Screen Shot 2023-02-22 at 10 16 43 AM](https://user-images.githubusercontent.com/72527380/220666276-7c0e00a7-a713-4518-a19a-b447484b4f52.png)
+![Screen Shot 2023-02-22 at 10 17 21 AM](https://user-images.githubusercontent.com/72527380/220666523-6ac00247-91e7-4be9-a7e0-17bada56df93.png)
