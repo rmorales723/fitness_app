@@ -1,4 +1,4 @@
-Here we are using the React framework, and harnassed Material-UI to create a beautiful User Interface. I created components, and hooks to execute functionality to choose exercise categories, specific muscle groups, and browse more than one thousand exercises with practical examples. I also 
+Here we are using the React framework, and harnassed Material-UI to create a beautiful User Interface. Providing components, and hooks to execute functionality to choose exercise categories, specific muscle groups, and browse more than one thousand exercises with practical examples. I also 
 implemented pagination, exercise details, accessability to pull related videos from youtube, and display similar exercises by fetching data from 
 the RapidAPI database.
 
