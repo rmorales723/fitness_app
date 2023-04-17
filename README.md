@@ -16,3 +16,9 @@ the RapidAPI database.
 ![Screen Shot 2023-02-22 at 10 22 49 AM](https://user-images.githubusercontent.com/72527380/220668142-bd7bb0a8-a65e-40bc-afac-bcd1e7a6eb3e.png)
 ![Screen Shot 2023-02-22 at 10 23 26 AM](https://user-images.githubusercontent.com/72527380/220668356-2aec3cfb-ea06-4993-b26e-43f499b73c60.png)
 ![Screen Shot 2023-02-22 at 10 26 32 AM](https://user-images.githubusercontent.com/72527380/220669457-a9924fe4-ca10-43cf-aee5-6f0b1b1e669f.png)
+#
+# LandingPage
+## Implemented Authentication & Authorization to Access Application
+![Screen Shot 2023-04-17 at 4 03 54 PM](https://user-images.githubusercontent.com/72527380/232598740-347e7386-a665-4958-a597-04cb9e3dddb1.png)
+![Screen Shot 2023-04-17 at 4 04 38 PM](https://user-images.githubusercontent.com/72527380/232598784-d79592d9-6dba-488b-8d39-5355a8c84a0e.png)
+![Screen Shot 2023-04-17 at 4 05 10 PM](https://user-images.githubusercontent.com/72527380/232598793-e8bcbdd4-fb03-43d5-9810-904dd3e426b5.png)
