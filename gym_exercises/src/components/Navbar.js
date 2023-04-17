@@ -23,10 +23,20 @@ const Navbar = () => {
         fontSize="24px"
         alignItems="flex-end"
         >
-        <Link to="/" style={{ textDecoration: 'none', color: "#3A1212",
-        borderBottom: '3px solid #FF2625'}}>Home</Link>
+        <Link to="/login" style={{ textDecoration: 'none', color: "#3A1212",
+        borderBottom: '3px solid #FF2625'}}>Login</Link>
+        <a href="/signup" style={
+            {textDecoration: 'none', color:'#3A1212',
+            borderBottom: '3px solid #FF2625'}}>Signup</a>
         <a href="#exercises" style={
-            {textDecoration: 'none', color:'#3A1212'}}>Exercises</a>
+            {textDecoration: 'none', color:'#3A1212',
+            borderBottom: '3px solid #FF2625'}}>Exercises</a>
+        <a href="/logout" style={
+            {textDecoration: 'none', color:'#3A1212',
+            borderBottom: '3px solid #FF2625'}}>Logout</a>
+
+        {/* <Link to="/login" style={{ textDecoration: 'none', color: "#3A1212",
+        borderBottom: '3px solid #FF2625'}}>Login</Link> */}
     </Stack>
    </Stack>
   )

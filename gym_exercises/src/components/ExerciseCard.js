@@ -27,4 +27,8 @@ const ExerciseCard = ({exercise}) => {
   )
 }
 
+<a href="home" style={
+            {textDecoration: 'none', color:'#3A1212',
+            borderBottom: '3px solid #FF2625'}}>Home</a>
+
 export default ExerciseCard

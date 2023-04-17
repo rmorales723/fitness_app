@@ -17,7 +17,7 @@ const LeftArrow = () => {
 };
 
 const RightArrow = () => {
-  const { scrollNext } = useContext(VisibilityContext);
+  const { scrollNext } = React.useContext(VisibilityContext);
 
   return (
     <Typography onClick={() => scrollNext()} className="left-arrow">

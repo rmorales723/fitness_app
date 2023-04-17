@@ -143,4 +143,37 @@ body {
     }
   }
 
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    padding: 2rem;
+  }
+  
+  button {
+    margin: 2rem 0;
+    padding: 1rem 2rem;
+    width: 120px;
+    cursor: pointer;
+  }
+  
+ 
+  .landing-page-container {
+    height: 100vh ;
+    background-image: url("./assets/images/background.jpg");
+    background-size: cover;
+  }
+  
+  h2 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 25px;
+    background: radial-gradient(circle, rgba(248, 248, 249, 0.81), white)
+  }
+
   
